@@ -1,6 +1,6 @@
 {
   "name": "Task-manager",
-  "tagline": "",
+  "tagline": "Git, YAML and javascript based task management",
   "body": "# Git, YAML and javascript based task management\r\n\r\n## Goals:\r\n* Should be easy to use minimally: 1 YAML file should Just Work&trade;\r\n* Should be easy to extend and customize: Nested directory structure with multiple YAML files should be merged in and navigable on the site\r\n* Should be arbitrarily nestible\r\n* Should be queryable (by age, label, name, text, etc.)\r\n  * Maybe this goal doesn't need to be part of the UI project; cli text querying tools might be sufficient, if the internal structure is just YAML text\r\n* Aging items should become increasingly visible\r\n* Should allow easy drag-n-drop on desktop and mobile\r\n\r\n\r\n### Things to consider:\r\n* Granularity of version control (is every change on the site a commit?)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
