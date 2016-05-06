@@ -3,8 +3,8 @@
     - Test with vagrant/salt:
       - Get working arch basebox
 - Make improv performance website:
-  - Create github repo
-  - Set up github.io for repo
+  # - Create github repo
+  # - Set up github.io for repo
   - Create a cast section:
     - Allow people to commit
   - Create a brainstorming page:
