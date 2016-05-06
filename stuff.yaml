@@ -1,0 +1,7 @@
+- Make home computer life easier:
+  - Get automated dotfile setup working:
+    - Test with vagrant/salt:
+      - Get working arch basebox
+- Make improv performance website:
+  - Create github repo
+  - Set up github.io for repo
